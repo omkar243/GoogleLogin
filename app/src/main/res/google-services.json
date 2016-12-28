@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "832468281725",
+    "project_id": "testlogin-ea95a"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832468281725:android:c611c0cf2bcd5aa0",
+        "android_client_info": {
+          "package_name": "com.admin.popchoice.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832468281725-k6a9eh4fbos3oqfsu39e4pif4cpq3t93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.admin.popchoice.googlelogin",
+            "certificate_hash": "362B9A044A78C603AF14057FFB52155B617920E8"
+          }
+        },
+        {
+          "client_id": "832468281725-d7lq6u7qrj6e0flna9kd3cg6pdfm9hgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC60b0OGdJyaLWNeeeNr0oaWBIAPCz7jlY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-89146114-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
